@@ -1,3 +1,5 @@
+just a draft
+
 # Data Science Projects
 
 ### By the domains
@@ -10,17 +12,18 @@
 
 - Time Series
   - Segmentation & Classification
-    - 
+    - Device Monitring by Electric Power Usage
+    
   - Prediction
     - Weather forecast challenge [repo](https://github.com/minesh1291/weather-forecast)
 
 - Image Processing
   - Segmentation & Classification
-    - 
+    - yet to add...
 
 - Natural Language Processing (NLP)
   - Classification
-    - 
+    - yet to add...
 
 - Machine Learning
   - Tabular Problems
