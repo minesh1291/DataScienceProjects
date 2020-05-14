@@ -4,16 +4,16 @@ just a draft
 <pre>
 📦 Reinforcement Learning (RL) & Optimization
  ┣ Resources Management
- ┃  ┣ 📂 Halite 3 by Two Sigma [repo](https://github.com/minesh1291/halite3)
- ┃  ┣ 📂 Santa's Workshop Tour 2019 [repo](https://github.com/minesh1291/santa2019)
- ┃  ┗ 📂 Investment Portfolio Management [repo](https://github.com/minesh1291/)
+ ┃  ┣ 📂 Halite 3 by Two Sigma <a href="https://github.com/minesh1291/halite3">repo</a>
+ ┃  ┣ 📂 Santa's Workshop Tour 2019 <a href="https://github.com/minesh1291/santa2019">repo</a> 
+ ┃  ┗ 📂 Investment Portfolio Management 
  ┃
 📦 Time Series
  ┣ Segmentation & Classification
  ┃ ┗ 📂 Device Monitring by Electric Power Usage
  ┃  
  ┣ Prediction
- ┃ ┗ 📂 Weather forecast challenge [repo](https://github.com/minesh1291/weather-forecast)
+ ┃ ┗ 📂 Weather forecast challenge <a href="https://github.com/minesh1291/weather-forecast">repo</a>
  ┃
 📦 Image Processing
  ┣ Segmentation & Classification
@@ -26,7 +26,7 @@ just a draft
 📦 Machine Learning
  ┣ Tabular Problems
  ┃ ┣ Predictive Maintanance
- ┃   ┗ 📂 Telstra Network Disruptions [repo](https://github.com/minesh1291/telstra)
+ ┃   ┗ 📂 Telstra Network Disruptions <a href="https://github.com/minesh1291/telstra">repo</a>
  ┃
 📦 Risk Assessment
  ┣ Cancer Immunology
