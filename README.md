@@ -21,13 +21,14 @@ just a draft
  ┃
 📦 Natural Language Processing (NLP)
  ┣ Classification
- ┃ ┗ 📂 yet to add...
+ ┃ ┗ 📂 Toxic Comment Classification Challenge | Info | Repo
  ┃
 📦 Machine Learning
  ┣ Tabular Problems
  ┃ ┣ Predictive Maintanance
- ┃   ┗ 📂 Telstra Network Disruptions <a href="https://github.com/minesh1291/telstra">repo</a>
- ┃
+ ┃ ┃ ┗ 📂 Telstra Network Disruptions | Info | <a href="https://github.com/minesh1291/telstra">Repo</a>
+ ┃ ┣ QA Time Estimation
+ ┃   ┗ 📂 Mercedes-Benz Greener Manufacturing | <a href="https://www.kaggle.com/c/mercedes-benz-greener-manufacturing">Info</a> | Repo
 📦 Risk Assessment
  ┣ Cancer Immunology
  ┃
