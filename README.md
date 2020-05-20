@@ -4,8 +4,11 @@ just a draft
 <pre>
 📦 Reinforcement Learning (RL) & Optimization
  ┣  Resources Management
+ ┃  ┃
  ┃  ┣  📂  Halite 3 by Two Sigma                         <!--a href="https://github.com/minesh1291/halite3"-->Repo<!--/a-->
+ ┃  ┃
  ┃  ┣  📂  Santa's Workshop Tour 2019                    <!--a href="https://github.com/minesh1291/santa2019"-->Repo<!--/a--> 
+ ┃  ┃
  ┃  ┗  📂  Investment Portfolio Management 
  ┃
 📦 Time Series
