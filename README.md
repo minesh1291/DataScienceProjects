@@ -39,6 +39,11 @@ just a draft
  ┃  
 📦 Data Science API
  ┗  📂  Stock Movement Predictor Service
-  
+</pre>  
 <!-- Data Visualization -->
 <!-- Data Journalism & Story Telling -->
+
+### Other Links
+-  LinkedIn [link](https://www.linkedin.com/in/mineshjethva/)
+-  Google Scholar [link](https://scholar.google.com/citations?user=4xhv6iYAAAAJ)
+-  Kaggle [link](https://www.kaggle.com/mineshjethva)
