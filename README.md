@@ -34,7 +34,9 @@ just a draft
  ┃     ┗  📂  Mercedes-Benz Greener Manufacturing  | <!--a href="https://www.kaggle.com/c/mercedes-benz-greener-manufacturing"-->Info<!--/a--> | Repo
 📦 Risk Assessment
  ┣  Cancer Immunology
- ┃
+ ┃  ┣  📂  Regulatory analysis of Gene Expression profiles as predictor of patient survival | <a href="https://doi.org/10.1038/s41419-019-1935-0">article</a>
+ ┃         ┗  [citation] Pandya, P., Jethva, M., Rubin, E. et al. PICOT binding to chromatin-associated EED negatively regulates cyclin D2 expression by increasing H3K27me3 at the CCND2 gene promoter. Cell Death Dis 10, 685 (2019). https://doi.org/10.1038/s41419-019-1935-0
+ ┃  
 📦 Data Science API
  ┗  📂  Stock Movement Predictor Service
   
