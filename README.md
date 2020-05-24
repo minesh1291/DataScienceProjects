@@ -16,7 +16,7 @@ just a draft
  ┃  ┗  📂  Device Monitring by Electric Power Usage
  ┃  
  ┣ Prediction
- ┃ ┗  📂  Weather forecast challenge               | <a href="https://www.kaggle.com/c/dmbi-18-metro">Info</a> | <!--a href="https://github.com/minesh1291/weather-forecast"-->Repo<!--/a-->
+ ┃ ┗  📂  Weather forecast challenge               |   May, 2018 | <a href="https://www.kaggle.com/c/dmbi-18-metro">Info</a> | <!--a href="https://github.com/minesh1291/weather-forecast"-->Repo<!--/a-->
  ┃
 📦 Image Processing
  ┣  Segmentation & Classification
@@ -24,14 +24,14 @@ just a draft
  ┃
 📦 Natural Language Processing (NLP)
  ┣  Classification
- ┃  ┗  📂  Toxic Comment Classification Challenge  | Info | Repo
+ ┃  ┗  📂  Toxic Comment Classification Challenge  | March, 2018 | <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">Info</a> | Repo
  ┃
 📦 Machine Learning
  ┣  Tabular Problems
  ┃  ┣  Predictive Maintanance
- ┃  ┃  ┗  📂  Telstra Network Disruptions          | Info | <!--a href="https://github.com/minesh1291/telstra"-->Repo<!--/a-->
+ ┃  ┃  ┗  📂  Telstra Network Disruptions          | March, 2016 | <a href="https://www.kaggle.com/c/telstra-recruiting-network">Info</a> | <!--a href="https://github.com/minesh1291/telstra"-->Repo<!--/a-->
  ┃  ┣  QA Time Estimation
- ┃     ┗  📂  Mercedes-Benz Greener Manufacturing  | <!--a href="https://www.kaggle.com/c/mercedes-benz-greener-manufacturing"-->Info<!--/a--> | Repo
+ ┃     ┗  📂  Mercedes-Benz Greener Manufacturing  |  July, 2017 | <a href="https://www.kaggle.com/c/mercedes-benz-greener-manufacturing"-->Info</a> | Repo
 📦 Risk Assessment
  ┣  Cancer Immunology
  ┃  ┣  📂  Regulatory analysis of Gene Expression profiles as predictor of patient survival | <a href="https://doi.org/10.1038/s41419-019-1935-0">article</a>
