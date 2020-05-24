@@ -5,9 +5,9 @@ just a draft
 📦 Reinforcement Learning (RL) & Optimization
  ┣  Resources Management
  ┃  ┃
- ┃  ┣  📂  Halite 3 by Two Sigma                         <!--a href="https://github.com/minesh1291/halite3"-->Repo<!--/a-->
+ ┃  ┣  📂  Halite 3 by Two Sigma                            <!--a href="https://github.com/minesh1291/halite3"-->Repo<!--/a-->
  ┃  ┃
- ┃  ┣  📂  Santa's Workshop Tour 2019                    <!--a href="https://github.com/minesh1291/santa2019"-->Repo<!--/a--> 
+ ┃  ┣  📂  Santa's Workshop Tour 2019                       <!--a href="https://github.com/minesh1291/santa2019"-->Repo<!--/a--> 
  ┃  ┃
  ┃  ┗  📂  Investment Portfolio Management 
  ┃
@@ -16,7 +16,7 @@ just a draft
  ┃  ┗  📂  Device Monitring by Electric Power Usage
  ┃  
  ┣ Prediction
- ┃ ┗  📂  Weather forecast challenge                     <!--a href="https://github.com/minesh1291/weather-forecast"-->Repo<!--/a-->
+ ┃ ┗  📂  Weather forecast challenge               | <a href="https://www.kaggle.com/c/dmbi-18-metro">Info</a> | <!--a href="https://github.com/minesh1291/weather-forecast"-->Repo<!--/a-->
  ┃
 📦 Image Processing
  ┣  Segmentation & Classification
@@ -24,7 +24,7 @@ just a draft
  ┃
 📦 Natural Language Processing (NLP)
  ┣  Classification
- ┃  ┗  📂  Toxic Comment Classification Challenge | Info | Repo
+ ┃  ┗  📂  Toxic Comment Classification Challenge  | Info | Repo
  ┃
 📦 Machine Learning
  ┣  Tabular Problems
