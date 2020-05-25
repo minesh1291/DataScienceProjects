@@ -7,16 +7,16 @@ just a draft
  ┃  ┃
  ┃  ┣  📂  Halite 3 by Two Sigma                   |   Dec, 2018 | <a href="https://2018.halite.io/">Info</a> | <!--a href="https://github.com/minesh1291/halite3"-->Repo<!--/a-->
  ┃  ┃
- ┃  ┣  📂  Santa's Workshop Tour 2019                       <!--a href="https://github.com/minesh1291/santa2019"-->Repo<!--/a--> 
+ ┃  ┣  📂  Santa's Workshop Tour 2019              |   Jan, 2020 | <a href="https://www.kaggle.com/c/santa-workshop-tour-2019">Info</a> | <!--a href="https://github.com/minesh1291/santa2019"-->Repo<!--/a--> 
  ┃  ┃
  ┃  ┗  📂  Investment Portfolio Management 
  ┃
 📦 Time Series
- ┣  Segmentation & Classification
+ ┣ Segmentation & Classification
  ┃  ┃
  ┃  ┗  📂  IoT Device Monitring & Event Tracking   | 2019 - 2020 | <a href="https://www.youtiligent.com/">Info</a>
  ┃  
- ┣ Prediction
+ ┣ Forecasting
  ┃  ┃
  ┃  ┗  📂  Weather forecast challenge              |   May, 2018 | <a href="https://www.kaggle.com/c/dmbi-18-metro">Info</a> | <!--a href="https://github.com/minesh1291/weather-forecast"-->Repo<!--/a-->
  ┃
