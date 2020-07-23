@@ -28,7 +28,7 @@ just a draft
 📦 Natural Language Processing (NLP)
  ┣  Classification
  ┃  ┃
- ┃  ┗  📂  Toxic Comment Classification Challenge  | March, 2018 | <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">Info</a> | Repo
+ ┃  ┗  📂  Toxic Comment Classification Challenge  | March, 2018 | <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">Info</a> | <a href="https://github.com/my-kaggle-journey/jigsaw-toxic-comment-classification-challenge-2018">Repo</a>
  ┃
 📦 Machine Learning
  ┣  Tabular Problems
@@ -58,3 +58,5 @@ just a draft
 -  LinkedIn [link](https://www.linkedin.com/in/mineshjethva/)
 -  Google Scholar [link](https://scholar.google.com/citations?user=4xhv6iYAAAAJ)
 -  Kaggle [link](https://www.kaggle.com/mineshjethva)
+-  Github [link](https://github.com/minesh1291)
+
